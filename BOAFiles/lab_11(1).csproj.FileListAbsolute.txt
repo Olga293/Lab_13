@@ -1,0 +1,6 @@
+C:\Users\Olga\OneDrive\Documents\BSTU\2_course\1_semester\OOP\lab_11\Lab_11\lab_11(1)\bin\Debug\lab_11(1).exe.config
+C:\Users\Olga\OneDrive\Documents\BSTU\2_course\1_semester\OOP\lab_11\Lab_11\lab_11(1)\bin\Debug\lab_11(1).exe
+C:\Users\Olga\OneDrive\Documents\BSTU\2_course\1_semester\OOP\lab_11\Lab_11\lab_11(1)\bin\Debug\lab_11(1).pdb
+C:\Users\Olga\OneDrive\Documents\BSTU\2_course\1_semester\OOP\lab_11\Lab_11\lab_11(1)\obj\Debug\lab_11(1).csprojAssemblyReference.cache
+C:\Users\Olga\OneDrive\Documents\BSTU\2_course\1_semester\OOP\lab_11\Lab_11\lab_11(1)\obj\Debug\lab_11(1).exe
+C:\Users\Olga\OneDrive\Documents\BSTU\2_course\1_semester\OOP\lab_11\Lab_11\lab_11(1)\obj\Debug\lab_11(1).pdb
